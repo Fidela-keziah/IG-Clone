@@ -1,7 +1,9 @@
  IG-clone
 
 #### Instagram application., 16th April 2021
-#### {Fidela-Keziah}
+
+#### Author
+{Fidela-Keziah}
 
 ## Description
 
