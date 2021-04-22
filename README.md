@@ -7,7 +7,7 @@
 
 ## Description
 
-{a clone of the website "Instagram".}
+a clone of the website "Instagram".
 
 ## Cloning
 
