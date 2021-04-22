@@ -45,4 +45,4 @@ a clone of the website "Instagram".
 
 ### License
 
-* MIT license,Copyright (c) 2021 **{Fidela-Keziah}
+* MIT license,Copyright (c) 2021 **Fidela-Keziah
