@@ -41,7 +41,7 @@ a clone of the website "Instagram".
 
 ## Contact Information
 
-{feel free to contact me via E-mail: irafidela@gmail.com in case you need any support or contribution.}
+ For any contribution contact me: irafidela@gmail.com .
 
 ### License
 
