@@ -1,4 +1,4 @@
- {IG-clone}
+ IG-clone
 
 #### {Instagram application.}, {16th April 2021}
 #### By **{Fidela-Keziah}**
