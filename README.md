@@ -28,7 +28,7 @@ a clone of the website "Instagram".
 
 ## Technology Used
 
-* Python 3.9
+* Python 3.8.5
 
 ## BDD
 
